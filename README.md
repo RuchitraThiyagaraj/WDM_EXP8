@@ -88,8 +88,7 @@ else:
 ```
 
 ### Output:
-
-![image](https://github.com/user-attachments/assets/4039f73d-9eab-4464-99ec-a648e8c5bf65)
+![image](https://github.com/user-attachments/assets/7b5f07fb-8f4b-4236-bd18-fbadf47d60fe)
 
 ![image](https://github.com/user-attachments/assets/d4a32d09-b6dc-46fe-a7e0-dd57d7c62497)
 
